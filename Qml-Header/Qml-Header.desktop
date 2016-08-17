@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Qml-Header
+Exec=qmlscene %U Qml-Header/Main.qml
+Icon=Qml-Header/Qml-Header.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

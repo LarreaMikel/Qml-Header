@@ -1,0 +1,17 @@
+{
+    "name": "qml-header.larreamikel",
+    "description": "description of Qml-Header",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Qml-Header",
+    "hooks": {
+        "Qml-Header": {
+            "apparmor": "Qml-Header/Qml-Header.apparmor",
+            "desktop":  "Qml-Header/Qml-Header.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Mikel Larrea <developer@larreamikel.com>",
+    "framework" : "ubuntu-sdk-15.04.6"
+}
+
+
