@@ -1,7 +1,7 @@
 import QtQuick 2.4
 import Ubuntu.Components 1.3
 
-Item {
+Page {
     width: units.gu(50)
     height: units.gu(70)
     header: Header {
